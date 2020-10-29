@@ -1,6 +1,6 @@
 # Insight-360
 
-Site web permettant de visiter le campus d'Efrei Paris en vision 360° comme si vous y étiez ! 
+Site web permettant de visiter le campus d'Efrei Paris en vision 360° comme si vous y étiez ! \n
 Le site permet les différentes fonctionnalités : 
 - Voir un plan du campus d'Efrei Paris dans sa globalité
 - Voir les plans de chaque bâtiment et les numéros de salles
