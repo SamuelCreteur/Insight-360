@@ -13,4 +13,4 @@ Le site permet les différentes fonctionnalités :
 
 Projet récompensé 3ème au Techday 2019.
 
-Projet réalisé avec Vincent BEAUFILS, Lucas CHAMPSAUR, Samuel CRETEUR et Stephane DUCHEMIN
+Projet réalisé avec Vincent BEAUFILS, Lucas CHAMPSAUR, Stephane DUCHEMIN et Lucas PECH.
